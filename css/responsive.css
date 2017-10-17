@@ -16,7 +16,7 @@
     background-attachment: scroll;
   }
   .section-wrap {
-    padding: 90px 0;
+    padding: 80px 0;
   }
   .service-item-box,
   .team-member,
@@ -250,7 +250,8 @@
   .main-wrapper-onepage.angles .result-box {
     padding: 30% 0;
   }
-  .main-wrapper-onepage.angles .process, .main-wrapper-onepage.angles .parallax-testimonials {
+  .main-wrapper-onepage.angles .process,
+  .main-wrapper-onepage.angles .parallax-testimonials {
     padding: 150px 0;
   }
   .main-wrapper-onepage.angles .parallax-testimonials .owl-pagination {
@@ -287,7 +288,7 @@
     font-size: 24px;
   }
   .section-wrap.intro {
-    padding: 170px 0 100px;
+    padding: 120px 0 80px;
   }
   .intro.style-2 .intro-text p {
     font-size: 28px;
@@ -310,7 +311,7 @@
     font-size: 26px;
   }
   .section-wrap.intro {
-    padding: 150px 0 70px;
+    padding: 80px 0 64px;
   }
   .intro.style-2 .intro-text p {
     font-size: 24px;
