@@ -1166,15 +1166,30 @@ p {
 /*-------------------------------------------------------*/
 /* Intro
 -------------------------------------------------------*/
+.intro-container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.intro-content {
+  margin-top: 48px;
+}
+
+@media(min-width: 1024px) {
+  .intro-container {
+    flex-direction: row;
+  }
+
+  .intro-content {
+    margin-left: 48px;
+    margin-top: 0;
+  }
+}
+
 .intro-heading {
   font-size: 28px;
   margin-bottom: 40px;
-}
-
-.heading-frame {
-  padding: 38px 50px;
-  border: 5px solid #1CC6FF;
-  display: inline-block;
 }
 
 .intro-text {
