@@ -4147,3 +4147,10 @@ p.footer-address {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+/*-------------------------------------------------------*/
+/* Block Explorer Section
+/*-------------------------------------------------------*/
+.section-wrap.block-explorer {
+  background: #060606;
+}
