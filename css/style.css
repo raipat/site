@@ -4154,3 +4154,15 @@ p.footer-address {
 .section-wrap.block-explorer {
   background: #060606;
 }
+
+.section-wrap.block-explorer h2 {
+  padding-bottom: 64px;
+}
+
+/*-------------------------------------------------------*/
+/* Exchanges Section
+/*-------------------------------------------------------*/
+#exchanges h2,
+#exchanges p {
+  color: white;
+}
